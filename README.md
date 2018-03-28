@@ -27,7 +27,7 @@ Base URL: http://localhost:4000
           "password": "1234567"
       }<br />
   * Success Response<br />
-    Code: 200<br /> 
+    Code: 201<br /> 
     Content: {
         "status": "success",
         "token": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IjVhYmI1MTYxMDUzOGYxMDk3Njg4MGJjMyI.
