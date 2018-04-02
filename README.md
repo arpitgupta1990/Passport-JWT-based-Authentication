@@ -18,7 +18,7 @@ Base URL: http://localhost:4000
   * URL<br />
     `/auth/register`<br />
     
-  * Methods <br />
+  * Method: <br />
       POST <br />
       
   * Data Params <br />
@@ -53,7 +53,7 @@ Base URL: http://localhost:4000
   * URL<br />
     `/auth/login`<br />
     
-  * Methods <br />
+  * Method <br />
       POST <br />
       
   * Data Params <br />
