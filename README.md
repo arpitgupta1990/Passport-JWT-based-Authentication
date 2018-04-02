@@ -8,7 +8,7 @@ Some test cases are implemented using mocha.
   For installing all packages use:
   `npm install` <br />
 ## Running the development server
-   Notes: Please ensure that mongo server is running
+   Notes: Please ensure that mongo server is running <br />
   `npm run dev`
 ## Running the tests
   `npm run test`
