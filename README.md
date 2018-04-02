@@ -2,6 +2,7 @@
 It has basic functionality without any CORS security checks.
 Authentication is done through JWT.
 Some test cases are implemented using mocha.
+You can also add and manage different activities.
 
 # Get Started
 ## Installation
